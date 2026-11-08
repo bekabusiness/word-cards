@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Карточки слов</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Карточки слов</h1>
+  <div id="card"></div>
+  <p id="counter"></p>
+  <button id="nextBtn">Следующее слово</button>
+  <p>Нажми на карточку, чтобы увидеть перевод</p>
+  <script src="script.js"></script>
+</body>
+</html>
